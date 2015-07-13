@@ -1,0 +1,1 @@
+sed 's/!!!COM:/!!!XXX:/; s/!!!MPN:/!!!COM:/' $1 | ms
