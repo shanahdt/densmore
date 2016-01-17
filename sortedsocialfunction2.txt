@@ -1,0 +1,26 @@
+affection	love
+animal		ritual
+ceremonial	ritual
+children	demographic-specific
+dance		ritual
+dining		food
+game		cohesion
+harvest		food
+healing		medicinal
+hunt		food
+legends		ritual
+love		love
+medicinal	medicinal
+men		demographic-specific	
+misc		misc
+nature		nature
+rites of passage	ritual	
+ritual		ritual
+seasonal	food
+social		social
+spiritual	ritual
+stories		legend
+tribename	tribename
+uncategorized	uncategorized
+war		war
+women		demographic-specific
