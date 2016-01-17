@@ -1,9 +1,8 @@
 !!!SUPERFUNCTION: ceremonial
 !!!SOCIAL_FUNCTION:	songs in honor of an individual
 !!!PDT:	1918
-
-Specific Region: Dakotas, Minnesota, Montana, Nebraska
-!!!REG: Dakotas and Montana
+!!!REGSpecific Region: Dakotas, Minnesota, Montana, Nebraska
+!!!REG1: Dakotas and Montana
 !!!LING_GROUP: Siouan
 !!!LANG: Tone
 !!!OTL@ENG: Two White Buffalo
@@ -13,7 +12,6 @@ Specific Region: Dakotas, Minnesota, Montana, Nebraska
 *clefG2
 *M3/4
 *MM60
--2147483648B
 8a
 8a
 8a

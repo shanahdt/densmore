@@ -1,9 +1,8 @@
 !!!SUPERFUNCTION: dance
 !!!SOCIAL_FUNCTION:	songs of the shuffling-feet dance
 !!!PDT:	1918
-
-Specific Region: Dakotas, Minnesota, Montana, Nebraska
-!!!REG: Dakotas and Montana
+!!!REG:Specific Region: Dakotas, Minnesota, Montana, Nebraska
+!!!REG1: Dakotas and Montana
 !!!LING_GROUP: Siouan
 !!!LANG: Tone
 !!!OTL@ENG: Song of the Shuffling-feet Dance
@@ -14,7 +13,6 @@ Specific Region: Dakotas, Minnesota, Montana, Nebraska
 *k[f#c#g#d#a#]
 *M2/4
 *MM76
--2147483648F#
 4f#
 8f#
 8g#

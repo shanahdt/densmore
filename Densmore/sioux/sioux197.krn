@@ -1,9 +1,8 @@
 !!!SUPERFUNCTION: dance
 !!!SOCIAL_FUNCTION:	songs of the grass dance
 !!!PDT:	1918
-
-Specific Region: Dakotas, Minnesota, Montana, Nebraska
-!!!REG: Dakotas and Montana
+!!!REG: Specific Region: Dakotas, Minnesota, Montana, Nebraska
+!!!REG1: Dakotas and Montana
 !!!LING_GROUP: Siouan
 !!!LANG: Tone
 !!!OTL@ENG: Song of the Grass Dance (b)
@@ -14,7 +13,6 @@ Specific Region: Dakotas, Minnesota, Montana, Nebraska
 *k[f#]
 *M2/4
 *MM100
--2147483648G
 4g
 4g
 =2
